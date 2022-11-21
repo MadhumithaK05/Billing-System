@@ -45,5 +45,15 @@ A flowchart is a type of diagram that represents an algorithm, workflow or proce
 
 From the above Figure 4.2, the workflow of the system is identified
 
+## RESULT
+
+<img width="422" alt="Screenshot 2022-11-17 at 6 59 17 PM" src="https://user-images.githubusercontent.com/90406259/203070120-3be240c3-0880-4827-b9f0-08c38e4765c4.png">
+
+
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/90406259/203070574-02f627f8-f3ab-415c-b8e6-0b1602509c1d.png">
+
+
+<img width="1299" alt="Screenshot 2022-11-17 at 6 50 11 PM" src="https://user-images.githubusercontent.com/90406259/203070654-4cb39724-198d-4c3d-a72b-28b71d0d0376.png">
+
 ## ACKNOWLEDGEMENT 
 II Year 3rd Semester Mini Project
